@@ -1,0 +1,573 @@
+{
+  "sourceRepository": "reedwhaley/NullPhaaze",
+  "sourceCommit": "a1aedba0ea22026f75672bc42f2535646a87d2fa",
+  "upstream": "Schwork-Corruption/corruptovania",
+  "upstreamRevision": "1a6af0d2489d67f40b0a1978903482668d4fc4a9",
+  "license": "GPL-3.0-or-later",
+  "applicationCodeModified": false,
+  "selection": "Production runtime dependency closure, native sources and narrowly scoped host adapters",
+  "privateServerIncluded": false,
+  "desktopApplicationIncluded": false,
+  "files": [
+    {
+      "source": "cdv/nullphaaze_network/LICENSE",
+      "path": "src/nullphaaze_network/LICENSE",
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2"
+    },
+    {
+      "source": "cdv/nullphaaze_network/__init__.py",
+      "path": "src/nullphaaze_network/__init__.py",
+      "sha256": "3e2eb4d9a8ef0bd097d9aa09618b26e235701e43aab1a20d1b5d1cb4018cc931"
+    },
+    {
+      "source": "cdv/nullphaaze_network/data/prime3_multiworld_pickups.json",
+      "path": "src/nullphaaze_network/data/prime3_multiworld_pickups.json",
+      "sha256": "74d801e6f7f70276d6a039c1a26157436675ffe30d98914d7f6d0d9ea0e4c525"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/__init__.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/__init__.py",
+      "sha256": "f7e14d63034def49c3c57c6c294fb973e7d9ae155effab939d54709f55a6ffc7"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/bootstrap.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/bootstrap.ld",
+      "sha256": "8bc5fd731a5ef5d58c9c1098c37d970ad44ce82a8b386204f017d29d7dcd5593"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/bridge.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/bridge.c",
+      "sha256": "28a19be289bb7d2e0b6ddbf84ee7d56404d573ae5be26ff52799501e5b41aa31"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/bridge.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/bridge.ld",
+      "sha256": "76cf4502c7212adfac41fedc8cdfcd0894e63d60154b81578f62b3375ed5ba00"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/bridge.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/bridge.py",
+      "sha256": "d4fe68d2b8f043a95c80107b7700104522b38e27714e626cb91c7cd14ffab4da"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/bridge_blob.S",
+      "path": "src/nullphaaze_network/prime3_lua_service/bridge_blob.S",
+      "sha256": "76fd813dd9a785505968d96c285a9a7b52c5e3f7bada25adbe8f52e3f8ac5193"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/capture.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/capture.py",
+      "sha256": "185ee64a55c72c728c82e6b60f0bbf99e38cb0f4e517736738ea421741926f5e"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/connection_audio.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/connection_audio.py",
+      "sha256": "0a0c3356c4a11280150f3d90bebabb2f68df42af4a11583ebf3798e2b56e3fcf"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/connection_notice.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/connection_notice.h",
+      "sha256": "9759e46bf0c4dbecd854052f41581485ae2bb5db7b957b1c36888c087f2eaf2a"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/frame_poll.S",
+      "path": "src/nullphaaze_network/prime3_lua_service/frame_poll.S",
+      "sha256": "700860bdd5b6252a2901c800e2e1411c64aaa85281f8ebe064c7f9e192ef320f"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/frame_poll.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/frame_poll.c",
+      "sha256": "ee89cf2fe18e68bc9b617134cf838afefe5d0738e20107eabf7ab0471977e5d4"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/frame_poll.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/frame_poll.h",
+      "sha256": "b4450bc0f6d6f37d344b9f78e0f49cab815e46a74e12c9cc1509689707c58e9a"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/frame_poll.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/frame_poll.py",
+      "sha256": "ef99d6a6b0b3f84993e6cd7a8852070312ff47b65ccf810b98df488e5fb4dce4"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/grant_probe.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/grant_probe.c",
+      "sha256": "5fec79b47a646ab284a39dab36dbc139775518396211479900c8a4d0a8eadd6b"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/grant_probe.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/grant_probe.ld",
+      "sha256": "b72827f6f787f7aca49697cfbdf2a904dd6cc11a2c69fd24d6bcc8017b60b82c"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/grant_probe.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/grant_probe.py",
+      "sha256": "d6be95917a8d03315ba8e264afb616f32a76f6b3aca940bdd4141d5050bcb7b5"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/inventory_profile.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/inventory_profile.py",
+      "sha256": "076f461f82638e76cb033138a888b680ffb48952c245f48ef23e3dce3c9f344f"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/item_sequence.lua",
+      "path": "src/nullphaaze_network/prime3_lua_service/item_sequence.lua",
+      "sha256": "f4b65961be5a1db61039698f69bd7d1b83fa2175aecfbd2e1c6b418a5baceb78"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/item_sequence.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/item_sequence.py",
+      "sha256": "520a1c9db45fea5295c12575284cebfa37db3a7deb128b478e0ed182fee597c2"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/item_sequence_common.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/item_sequence_common.h",
+      "sha256": "e374e2d3e379c393f5668888d2fa320db176507721364f15e44e4f258d57e232"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/item_sequence_delivery.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/item_sequence_delivery.c",
+      "sha256": "10f6e1e906a7d6fe7d406b6e26870325045aa468418f8569fce747006b09aa8f"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/item_sequence_queue.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/item_sequence_queue.c",
+      "sha256": "6475f29ba44b3937182673f72e9be0d61e7bc2532abf2852e96ad193520b906e"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/location.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/location.py",
+      "sha256": "8f4c94ea8583df3aba6bc59bc2639d97de088feef8b5ca359557480046d033df"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/location_probe.lua",
+      "path": "src/nullphaaze_network/prime3_lua_service/location_probe.lua",
+      "sha256": "f255ab4cba1d2d958cc1cf471e0ffa4b0c6fac2c712885ecda6dbda9b4c0f793"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/mem2_contract.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/mem2_contract.py",
+      "sha256": "4b91ecd052550797c0d7958192d879f0e3c48c67fbfa08d3b017ce6754d7a2b1"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/mrea_build.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/mrea_build.py",
+      "sha256": "11fdd269082fd09f60313b97ac71679be859418c47eefc309422d6a2bc832795"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld.ld",
+      "sha256": "53e9991d1bbbafcfa9a9410a3ee05825beb6dbd413a992f7dbdb6031fa13ce9a"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_areas.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_areas.py",
+      "sha256": "362e30ef04b73b0d628b753773b83be1d860c2487a6e00f0a7cf85ac3614418c"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_lease.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_lease.h",
+      "sha256": "0b889bc8ffd3b00193d25007c7eeaac63df04169d0fc2352df347fc0c0f12258"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_lua.inc",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_lua.inc",
+      "sha256": "b681a33e47e3d27a65a81f0d35898c57506992b605642ecdd845378bc9cfa564"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_plan.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_plan.c",
+      "sha256": "604dae2304791cd5da619c8db47f6917a55950c562fbe242e96e76c8fc8bc380"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_plan.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_plan.h",
+      "sha256": "833d961a0f431d2dc4d6b9288268145e5ee0baebe049c846e3468834da96af2b"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_presentation.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_presentation.py",
+      "sha256": "71767fce4d84412f36808923706ab4cda7547588de6fc9a6ca3973853f72d848"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_presentation_lua.inc",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_presentation_lua.inc",
+      "sha256": "0fb9dba5ce9e4755ce8e9b5554856216c4febff46f53520da03aaaf205392856"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_seed_data.S",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_seed_data.S",
+      "sha256": "3618c7a5ca5ac588c866fce8028868b11eed46562cbc51ac614da2af83d9dfaf"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_seed_data.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_seed_data.h",
+      "sha256": "81925341ab41d937225ff3e1d4cc37edc092d6ca35e36b769ab75687f26c17c8"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_service.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_service.c",
+      "sha256": "4658ac805ed48b1f3e23b54a34901ab83d86cc572dd3d96a7f1cac69a531de85"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/multiworld_service_areas.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/multiworld_service_areas.py",
+      "sha256": "5e14318ea951d2105455a8421fe007475595c361eb1d0f0ead4fabde4e0c445a"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_delivery.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_delivery.c",
+      "sha256": "5b80b324108f6c58d597cf89ee6f1449ffa87627dd8a44a8030f0f81ac89aedd"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_delivery.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_delivery.ld",
+      "sha256": "e11eefdfadb6a9498b89dd9a111424595e1d757e652c5ef14ca1d324c619df62"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_delivery.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_delivery.py",
+      "sha256": "cbdc538ffbda079a524ffa19a6d7bec050704048de9d0fd3d53e563359b08bb9"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_save.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_save.py",
+      "sha256": "57766d225d1015fa1607ec2f82a10ae55bae0f82a7cf1811cd73b14c75d57334"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_save_adapter.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_save_adapter.c",
+      "sha256": "d1fe51b93ebb3647fdc79d39dd2ae529dfc1c22d805c3feec0dc57ee90657632"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_save_adapter.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_save_adapter.ld",
+      "sha256": "5170308bd5b8bc89f370a0ba0ddabff856a9c7ad3e1f6dffe43e26b874cfc3e9"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_save_codec.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_save_codec.c",
+      "sha256": "c061b2d6cff74b5a7ab1f710adcb67fd82a40c5b09ded09fc5ece67ab407e167"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_save_codec.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_save_codec.ld",
+      "sha256": "e78c712910c314455eaf727dd6edd22bb19668babf388fd6ea69ed6f091c6170"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_save_profile.S",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_save_profile.S",
+      "sha256": "cfbcfeca1b3f9c37e4952c2bb554e3bcd4b5efba97e28041434982cbc20a7531"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/network_transport.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/network_transport.c",
+      "sha256": "541cd58ff7d5b84450b7216a26460ce2e4940dea5f9b899e3ad81e12de1a9328"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/observe.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/observe.py",
+      "sha256": "4f5bb5e4afbe059f03244d284519ab77a39ef9cecbaa2966e273c6e9c55e53f5"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/presentation.lua",
+      "path": "src/nullphaaze_network/prime3_lua_service/presentation.lua",
+      "sha256": "e9458cdae317eb0d9b0dc31b08893e29fb1b3b5a4be86d392e3cdb8b685fb254"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/presentation.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/presentation.py",
+      "sha256": "b2403f3dd4ac2bcd6fa59b537ebb4b2c6b304471922b4706fc92ba41b9396824"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/probe.lua",
+      "path": "src/nullphaaze_network/prime3_lua_service/probe.lua",
+      "sha256": "af8343641d550ffd9c08548fd1229aacf14a1bbf39ec122bffdecfca1ad0e00b"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/probe.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/probe.py",
+      "sha256": "884c06bcc997fa0ef0108a117062fd004b980e8a17a70fe9b3a45ca07de95a46"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/quiet.lua",
+      "path": "src/nullphaaze_network/prime3_lua_service/quiet.lua",
+      "sha256": "bb7f7c565010c04defd4716a11e5204ee4b9359adeab7420dfc20c654f0daf57"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/quiet.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/quiet.py",
+      "sha256": "4c81f4c619e679b89f3b04878f2f73e03dfc578173fb02483e1d5c0306d20d31"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/readiness.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/readiness.c",
+      "sha256": "982409b9f695e789a1d8acdcd6ed4d0268c36303896b7e8edfcdd87766fe9bad"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/readiness.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/readiness.ld",
+      "sha256": "ac3d2835ef21f84a201ea775ade2852df61d3675edb3b0ac362f07d960537bc8"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/readiness.lua",
+      "path": "src/nullphaaze_network/prime3_lua_service/readiness.lua",
+      "sha256": "c0d6c86649e075ac8df7ed042fff21a91d4526ee3a3bbd3d3276899f1a328ea5"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/readiness.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/readiness.py",
+      "sha256": "ec1ce13fd0672ad94897b09da78817299e8ee4be789051a6854a64207dabb0cd"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_coupling.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_coupling.c",
+      "sha256": "842c386d870a28edffe929306e4c5c8f15c5a17e955def0a9f87e2bf29703389"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_coupling.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_coupling.ld",
+      "sha256": "c30ef8e18010fdc4a0aeca3ea4274c68dd71912a01b0dcddb67459db8c64fed7"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_coupling.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_coupling.py",
+      "sha256": "ed5fb3bf30f934cf914a07c01ccaf476456d96b24f207f39275555573c66cba5"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_delivery.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_delivery.c",
+      "sha256": "97a2c71f008b77b3710bb1c39304a25cf7a2863dd99500daa7c9ab21a32d4c74"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_delivery.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_delivery.ld",
+      "sha256": "af258dd5a04501cfb2031f7bebfd0da81df974bf8c6e2cc46c1e7dd0c082e748"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_delivery.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_delivery.py",
+      "sha256": "33736d4456361522a7f7333d8d27d828161aed1ee5347ed4b206b366696daf49"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_layout.h",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_layout.h",
+      "sha256": "08aa87b1c4f23f66d204b457238043e03f537f38ba4a6e8757afc3967ca78d8e"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_lifecycle.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_lifecycle.c",
+      "sha256": "e431ae6d518d05b661f9434906920d8011ef8ee0f9b3589a1f8dc15997608dea"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/receipt_lifecycle.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/receipt_lifecycle.py",
+      "sha256": "dbd49667e5a290916cd3b70ad10e8b6b22b829e55b1f12c28ecf2db5b6cbeb8c"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/runtime_assets.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/runtime_assets.py",
+      "sha256": "76e9c1b3db73df4dff097e3a7c1a79f9e0b5b56fc33dcb72123121dd96885008"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/runtime_export.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/runtime_export.py",
+      "sha256": "2e71daa1fbe1ec1827060929dd91780f494d38f9211e78933ca15de2a2d5f9e5"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/save_container.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/save_container.py",
+      "sha256": "71df376fe09210b4413b2da4d238b8f1860ecb338741a968adfa7486fe8c1697"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/save_native_trace.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/save_native_trace.c",
+      "sha256": "e113404457d2b230b81849dc690f008b79f5b18464f67ffa6cc8eebb7289d766"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/save_native_trace.ld",
+      "path": "src/nullphaaze_network/prime3_lua_service/save_native_trace.ld",
+      "sha256": "83703dff178247454d32fcec1d4e21aebcded5f855570838f094d7de642ec272"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/save_native_trace.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/save_native_trace.py",
+      "sha256": "98e153a488d2e9a0ed79d618fec6494519cf6ea72a43cdde3a0ce2c7831da7b9"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/save_profile.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/save_profile.py",
+      "sha256": "0ff0cd926da923c0e5d040621a2cd9224ac78275fc3d9feef331fae330ae7698"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/seed_data.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/seed_data.py",
+      "sha256": "79a96725bf7a0c1d251117631f15dd1b0ac3fa2362c7d436540f5aca367959e0"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/sequence_presentation.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/sequence_presentation.py",
+      "sha256": "5c5ca1f1ec05629bf84fb15b2c2e0df62cecf9c27a2a254ebdef84ad3654a946"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/tracker.py",
+      "path": "src/nullphaaze_network/prime3_lua_service/tracker.py",
+      "sha256": "abed786bf49156451d3cc97c96c0b4cec90b631e6610105b508cbbd2a89e2953"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/tracker_transport.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/tracker_transport.c",
+      "sha256": "38d138690f97fc265f7af9b588287cce0a4c822c3aa0022cd6c627bfb9ab9504"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_lua_service/udp_echo.c",
+      "path": "src/nullphaaze_network/prime3_lua_service/udp_echo.c",
+      "sha256": "5e5395450973d1165632c012978be44ab1753c50bba73d900b2d263e470365ea"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/__init__.py",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/__init__.py",
+      "sha256": "f7e14d63034def49c3c57c6c294fb973e7d9ae155effab939d54709f55a6ffc7"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/analyze_ios_wrappers.py",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/analyze_ios_wrappers.py",
+      "sha256": "061b105fc8fbd860bce36ffb7dd39afd2f7a260ef2b62e0a716b23115ae2e0aa"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/build_payload.py",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/build_payload.py",
+      "sha256": "6d21914e4b11f6121895e1494f236313d8ace81b406ca13909f30026518b5e77"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/payload.S",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/payload.S",
+      "sha256": "2a5073d020a111ad16291fae65df760072266a2de7d5fac1b57dc3430c23a86c"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/payload.ld",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/payload.ld",
+      "sha256": "8b0fe7823153e69170918d49bd2b469f23b265b5fa2f6cdfc9cda5c06046a272"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/protocol.py",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/protocol.py",
+      "sha256": "9f8938e8aa6ce6410f38687bf9fea7b88e30db4e6179bc0ec921e08a0df98063"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/relocated_runtime.S",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/relocated_runtime.S",
+      "sha256": "4586562c62d9262889168bea66937744e73a393f92f4921c69787af17acfe1c7"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/relocated_runtime.c",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/relocated_runtime.c",
+      "sha256": "85e7cc181efc330898b19a8434807dc0ae26628c4fa0d093879d404e944e6c37"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/relocated_runtime.ld",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/relocated_runtime.ld",
+      "sha256": "9bb92fcd30e4f24b4f57c4d33d0f62db4725e8eefccb2d4a7e97050a0e5d9eb2"
+    },
+    {
+      "source": "cdv/nullphaaze_network/prime3_wii_runtime/runtime_payload.py",
+      "path": "src/nullphaaze_network/prime3_wii_runtime/runtime_payload.py",
+      "sha256": "fbacc4f3fbb56f99bc57cff402588fc9e6de25daf33e3714f92a1b6eaac0db32"
+    },
+    {
+      "source": "cdv/randovania/game_connection/prime3_wii_tracker_protocol.py",
+      "path": "adapters/randovania/game_connection/prime3_wii_tracker_protocol.py",
+      "sha256": "9eab3ee8c45f9d101286494c5e5f965f2ecbc40110743ebbbffa964dadfcab17"
+    },
+    {
+      "source": "cdv/randovania/game_connection/prime3_wii_tracker_client.py",
+      "path": "adapters/randovania/game_connection/prime3_wii_tracker_client.py",
+      "sha256": "2645579ffd48d26df8a3cdd4576f9c5a39764cdfcac9a764b9b133dbc2d9143e"
+    },
+    {
+      "source": "cdv/randovania/game_connection/prime3_multiworld_protocol.py",
+      "path": "adapters/randovania/game_connection/prime3_multiworld_protocol.py",
+      "sha256": "7a7ed7b16aa0832230c2002b020eb0a7740a7321ddb9a31e38340acb0db2a395"
+    },
+    {
+      "source": "cdv/randovania/game_connection/prime3_multiworld_client.py",
+      "path": "adapters/randovania/game_connection/prime3_multiworld_client.py",
+      "sha256": "d438517aef66620dfd28205a1c97d7cafc77c493b87d8baf60e9f8adbfd94acc"
+    },
+    {
+      "source": "cdv/randovania/game_connection/connector/prime3_wii_tracker_connector.py",
+      "path": "adapters/randovania/game_connection/connector/prime3_wii_tracker_connector.py",
+      "sha256": "41cebcbca069ecf4ce2a9bfb4a976a96fcb93a195ecf6eefc2d89a7e6442e80b"
+    },
+    {
+      "source": "cdv/randovania/game_connection/connector/prime3_multiworld_connector.py",
+      "path": "adapters/randovania/game_connection/connector/prime3_multiworld_connector.py",
+      "sha256": "af4eca8d22b5bba303c0717f777098e37b76bd606fdaf3f639e6427218de4bc9"
+    },
+    {
+      "source": "cdv/randovania/game_connection/builder/prime3_wii_tracker_connector_builder.py",
+      "path": "adapters/randovania/game_connection/builder/prime3_wii_tracker_connector_builder.py",
+      "sha256": "a26859e75adb8e8f8ce8bfc94a3b2919f5bdc06da36531c2e1e17f3807d75636"
+    },
+    {
+      "source": "cdv/randovania/game_connection/builder/prime3_multiworld_connector_builder.py",
+      "path": "adapters/randovania/game_connection/builder/prime3_multiworld_connector_builder.py",
+      "sha256": "b5a861d1933d16777cbe1f549cd200172b5afa08cfc4e1635fed6d43335f001c"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/exporter/dol_patcher.py",
+      "path": "adapters/randovania/games/prime3/exporter/dol_patcher.py",
+      "sha256": "93defd02168d7c6229d6cbfc17a179b4b2539a30b58c958147a886f03ee37098"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/exporter/runtime_toolchain.py",
+      "path": "adapters/randovania/games/prime3/exporter/runtime_toolchain.py",
+      "sha256": "adbd73b2e4a7b5f8e9665787247f324e2a819f7d0079fe04de06f751c5b1783f"
+    },
+    {
+      "source": "cdv/randovania/network_common/nullphaaze_multiworld.py",
+      "path": "adapters/randovania/network_common/nullphaaze_multiworld.py",
+      "sha256": "ffef821f46e6ca11d9bc5c726a2f3fe2ab226461a385e398bf706c5d1cda56f0"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/multiworld/__init__.py",
+      "path": "adapters/randovania/games/prime3/multiworld/__init__.py",
+      "sha256": "43a2c1295815e02b538a72fa32a3a9c05fe26f5985d81e88a325f4398e526812"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/multiworld/checkpoint.py",
+      "path": "adapters/randovania/games/prime3/multiworld/checkpoint.py",
+      "sha256": "8a0b6e4cd380b109e1ece347bcc631629c16d5ac12d71e0a9c4117d5a495a4f0"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/multiworld/ledger.py",
+      "path": "adapters/randovania/games/prime3/multiworld/ledger.py",
+      "sha256": "5ef6c7505458eb36db8f93801266705f6775c223a5faf5aa4ee3dbc19db7e163"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/multiworld/manifest.py",
+      "path": "adapters/randovania/games/prime3/multiworld/manifest.py",
+      "sha256": "23f697d67c923357065b165a64eebe26ebe304252382a4b7c9f15d0fe88176fd"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/multiworld/recipes.py",
+      "path": "adapters/randovania/games/prime3/multiworld/recipes.py",
+      "sha256": "df246b71b26015deb08ad99d46eb6c93235586a4cc52e62efc53c75b47834832"
+    },
+    {
+      "source": "cdv/randovania/games/prime3/multiworld/seed_compiler.py",
+      "path": "adapters/randovania/games/prime3/multiworld/seed_compiler.py",
+      "sha256": "e521d2697ace6e3524f5b14c72185319d792dfd34d3fef745eb9cfcbd63b1c36"
+    },
+    {
+      "source": "cdv/LICENSE",
+      "path": "LICENSE",
+      "sha256": "589ed823e9a84c56feb95ac58e7cf384626b9cbf4fda2a907bc36e103de1bad2"
+    },
+    {
+      "source": "build/runtime-template-manifest.json",
+      "path": "fixtures/runtime-template-manifest.json",
+      "sha256": "0ffa9e11aa26f137887ce9106637a4c14f81217670d316ad33c7c24b0ac9e897"
+    }
+  ]
+}

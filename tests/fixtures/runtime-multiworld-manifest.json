@@ -1,0 +1,1529 @@
+{
+  "schema": 1,
+  "contract": "nullphaaze-multiworld-v1",
+  "world_uuid": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+  "save_slot": 0,
+  "save_policy": "new-multiworld-save-only",
+  "locations": [
+    {
+      "index": 0,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Light Ammo Expansion",
+      "pickup": "m=Q6houSZy1+}%jffeDwg}Ke8y||_ZOlfCmbV6leZ9#2qZ$)@;VQzD2Z*G9Z%EH?P36+Jl%`lKaVr5}%2O)`-g|&Ujm9d4<m6AdeD+_4?lPhBjqbnj|Aea$}m4&pm$(6B%(Up*a)xn*~g^`vbvb;Djw>h-8w?##GaA9t9X>V?9EyNL7UK|)(oZ4I4q9bFgYfE!`qeQ@Ij;*aN&F+l^3XH664bAP1?C&sK+uK=4CId`$ZE0?AbZ8)SWn*Y=Z)|U8c>t9|mB0=%0s",
+      "pickup_key": "ae9a689839455339808c5bb00639566e71c5f6463657615eec6d7a65ed152b39",
+      "local": false
+    },
+    {
+      "index": 1,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Sky Temple Key 1",
+      "pickup": "m;p_#<bhF@wZXBJfi0EffW)LJwY;h_wzxJjrLw%rb8C5DbY*RDY-L|-WqFjQ*7888%G%)A%0QON@|Z{^DYd+iDl)dXHZqVUvb@4=Y_BaXmE|yyHnvxgl;+m*zUa!@;MmH(*2?oKO|9gCQI)m9v6O)=mE|yyN>gijAXH^-aBO8DOJ#Y2W(1ZZ",
+      "pickup_key": "d6d395b95b05011613776c61a62613bbcfb276854e34714124125775ab45c46b",
+      "local": false
+    },
+    {
+      "index": 2,
+      "assigned": false,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Nothing",
+      "pickup": "hMeB$(9+z_aMPRJ8X8-f;kvo9wlcZ7!&P%-Y-MwEY%RnS10uIFxih?wDmgH>IkPgk5GJ>>I<_)_hU(_Z*vjVT4OPvRv6aouu(uFQ42s;!<j(RysN}-j=FH0EK$_mj>e$Kv761",
+      "pickup_key": "f0cbddb219b31bfd3d3ae369f0809f9a7a22fd3b9aea92d92d8ebfd81c4c3a12",
+      "local": true
+    },
+    {
+      "index": 3,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Cell 3",
+      "pickup": "l8W5Q<j(RyhRWF3KxT2#TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$2ODR|Z6j*=",
+      "pickup_key": "c03d776bca9c62d4a8a4d8ee8c417ad7cf7c33f42806a94bcd1d4764d7f1929d",
+      "local": true
+    },
+    {
+      "index": 4,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Progressive Beam",
+      "pickup": "m;ph_y`9OG&CR9Rlz|DAg|y?SHZZxiu#h1#u(rTrWnpcCgv!F&=9owzF*2~Wf`G)z!rKK2m4&s<FpxlEWnpayEvzj~?opFiTASR65?vWvQwaoS))uDsA_kX6R?tAfMOXl0",
+      "pickup_key": "3d8c3db44f3b309fc5fce8bdc1524cfaedfd6c0d9554e5e617b0e61dac271b44",
+      "local": true
+    },
+    {
+      "index": 5,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVanW0uT$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ33gpumHp",
+      "pickup_key": "fc6bf1d4dc8d609ba6d2ac3c9592757ba5fed115573a711280ed862d7fe8ec1a",
+      "local": true
+    },
+    {
+      "index": 6,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Super Missile",
+      "pickup": "lBVk5%H%+r(&pyU*ve8A-CP-5lUiKd+FKc9F|;tbGqSI-x3;l2$wO#ia%W{ALvL+jZ*xo}5*XSTT$$NO7~9)eo5Bo+CRP^J_a;`x7e-b|2u!RkqzX)}j4q6<iG+e+MkZDk($^+d#ur9bLI+m{cP17_Sdhlh!sO1%zQ*3##NQ<ip@qqvlz|PswTZpWFpx-NXkl_^Wgug3ZDMZ-ENu<%P4fUDv^TvskSa2<v^O`lH?zFKb8l^BAeaFSp}pz6fzg$Xp}D=Wy`AJBwy?D~xkgQ4YHxBNNpxjxOe7JTSX!Ihh#FlPTVfk)OPiZZV=Oe*mp3++##F*VDYd1|&84xFfz9R3(Ur6aNUMMbAO",
+      "pickup_key": "864db712077705a21db1d1af17d8d12c3c6537a3ac1c9ad4f0d52b8b559d6f22",
+      "local": false
+    },
+    {
+      "index": 7,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Dark Ammo Expansion",
+      "pickup": "m<<ty$*h3|wY9u~72&~!xy_}$xTXa}VRCCiWnpbWZEbHwcyM8Eb7^mGfW*qe+XV@gg|*EvkU(N(VQmK?iIs)5eaV%vh0&FgLK7<sX#$fgV+*4zB4Hqy5s8(Bw6)2Vv4zo<kb%{~oymofmLjseI54+4w70iKMR;&wZgXjGZfq^Y5m{aw7+aj$Tic=|W2<XRb9<viz-f-Htu4*&jRXpetZfa=?Tzg3FkIW)Sx6=WOm%H(Zf|sGAarG8Xl`$8Z)bS`l*5(44l)7",
+      "pickup_key": "396e1f446317cde4a4c2b8ea21461a17daec2d6784a3454689f862dcde7f3a75",
+      "local": false
+    },
+    {
+      "index": 8,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Grapple Voltage",
+      "pickup": "mX74Y;NaNGK&;-_=)%s*a?#wFTpSx2NEMsg9T-{JVY9g~xHvX4!$)#qaBys8Oe7MS+?ZS(8yQF(-dx=oTR}r-a$#_AY-NUy<ig<K*vgnlB{R7&xHvX4kU6}$x-zze7S<M~_bAD%Eluu32`-GSsf2<vYYS6*kpoMkD`*m8tN<|p",
+      "pickup_key": "f187c349898cc8c37b693715369159e446e9c09f4c4406ccb7a03a52fd955e6d",
+      "local": true
+    },
+    {
+      "index": 9,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 10,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVG0|I@T$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ34q24gd",
+      "pickup_key": "5fa7948cffd7eb1c4dacfe4eeda50acca516620ca9fa943842d4fa3e39182c6d",
+      "local": false
+    },
+    {
+      "index": 11,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 12,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVanW0uT$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ33gpumHp",
+      "pickup_key": "fc6bf1d4dc8d609ba6d2ac3c9592757ba5fed115573a711280ed862d7fe8ec1a",
+      "local": true
+    },
+    {
+      "index": 13,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Ship Missile Expansion",
+      "pickup": "m>Er>rNDtTrOnNyv6O)o;lYKu&85A#<SDc?xDY0^xw*8qGQ(|Yb8~5IWrmv4=H}Aa%9uzcHnh39w6-#kIlQ^LGPZ(>%JAUA+~(5W-4zw#!G*carM<bZw-7~TcyM8Eb7^mG32m(|Zfz}$tL{v#j4q6<lG9pT+}c|iNEDe{7+o1z6A1*s?X50uZ7qzYu1u|rE{v>%4z3LDOe~C`6^vE@`Dff@1O",
+      "pickup_key": "6ffa7cef383424f837f2e6d0d21d5a4479f46c28c12bd79452d35bdccb6f3f29",
+      "local": true
+    },
+    {
+      "index": 14,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Echo Visor",
+      "pickup": "jEct4-axF<=HBE{QCQj=)tX$}+@QNOxwpAOR%vr@a&t^15M7#F+uVW!Xmw<akgAA4rt;?K%G#JnBP1%K5IMZLx-z!JM#omxmge_HiGb4`TUuM2-5LlL8CcpIo7)@N-e9@6wz7~+2AJyF(%jzY&_L+Q#?ai}*xt_a5L;MUo7|%&u(db25G1-Xwx$vY&8#g=?nDhPjIFT+*`>|B$`Z3nn|qU*VIYF+(&pae1YA|X0}u",
+      "pickup_key": "8eaeeb3c17a258ffb12116c1ba8f55fd014ba05e1782e772b2c8092b651411b1",
+      "local": false
+    },
+    {
+      "index": 15,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Sky Temple Key 4",
+      "pickup": "m;p_#<bhF@wZXBJfi0EffY78VwY;h_wzxJjrLw%rb8C5DbY*RDY-L|-WqFjQ*7888%G%)A%0QON@|Z{^DYd+iDl)dXHZqVUvb@4=Y_BaXmE|yyHnvxgl;+m*zUa!@;MmH(*2?oKO|9gCQI)m9v6O)=mE|yyN>gijAXH^-aBO8DOJ#Y2;sll=",
+      "pickup_key": "9a0a7ede0029f5a7191bd9a860578900815f7288d0799d896d1150985ddb19d4",
+      "local": false
+    },
+    {
+      "index": 16,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Dark Agon Key 1",
+      "pickup": "mWaaS)<A;J-rPWz%JM*BQc)OOn$;OwTpJlu*<NEhGPbxjGOx9=yvsyka%&(|Wo>Y5Wgtssc}ye{oS9h&6&YJx8yQFv*<N8bwpW&x%JP^<8(S;LMs#IuaBO8?Yh`(sh{EL7K&Z;v;MmGQmdf&&NF_NkvJfgVwzxJjkR`Ib!8rm;5dZ",
+      "pickup_key": "090f7936e1342f3e1c7ceb7b11294a3c3317138ea95a6de8988de5802070d7af",
+      "local": false
+    },
+    {
+      "index": 17,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 18,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 19,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Cell 2",
+      "pickup": "l8W5Q<j(RyhRWF3KxA>zTbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=#}ODR|Z6j*=",
+      "pickup_key": "6ec51b52aadd078730be937a2864b3b937e6b401fba4b65a4f1f8277086291cb",
+      "local": true
+    },
+    {
+      "index": 20,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 21,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Screw Attack",
+      "pickup": "kfz4u%I-jd=;*@6)=|{h+?id_T^$%$+Tu31yE3-2w>m^kZ+2yEWo~p#Bof<O-I-fiTb&3T-dx=oTS38NXm5INm;nu;z3IGxQI(CMxxKNyo#qRhduu5KzzA&(?@i<mjI3=9&Fzis?;!=Xg{i&DGHVM{dyxW5qbq7*AdK3=)ZXMk(&)<D5gS|GnOj*~ogyZ;yE3-2w>l;g32m+J%&n}g&V&wcE^dsipiD(v05Jd",
+      "pickup_key": "4adffb20ff348485c0798430004b2f3f72d46ae56d7e44e3fbf711b56ad30568",
+      "local": false
+    },
+    {
+      "index": 22,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 23,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Artifact of Strength",
+      "pickup": "m=OiZ(WRM%jnIL;n1M~v$(6aC(V%7oL2`6yW?^G=Aa7<MQ*?4=ZfA68h{ELP(#*of=@A9V(WRM%jnS~T5JX{ebZKT`V{`=(g~`#SnT3tgA`6qFOEU`_qhW3!h{ELP(#*of=nbuv<)yN`rV<9$%JK!+5k(IWpa",
+      "pickup_key": "79b91d5b58aec5d6c93e9df0ce22c35f0ec24c994883dc26c7c6b3ad0df0aeb8",
+      "local": false
+    },
+    {
+      "index": 24,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Dark Ammo Expansion",
+      "pickup": "m<<ty$*h3|wY9u~72&~!xy_}$xTXa}VRCCiWnpbWZEbHwcyM8Eb7^mGfW*qe+XV@gg|*EvkU(N(VQmK?iIs)5eaV%vh0&FgLK7<sX#$fgV+*4zB4Hqy5s8(Bw6)2Vv4zo<kb%{~oymofmLjseI54+4w70iKMR;&wZgXjGZfq^Y5m{aw7+aj$Tic=|W2<XRb9<viz-f-Htu4*&jRXpetZfa=?Tzg3FkIW)Sx6=WOm%H(Zf|sGAarG8Xl`$8Z)bS`l*5(44l)7",
+      "pickup_key": "396e1f446317cde4a4c2b8ea21461a17daec2d6784a3454689f862dcde7f3a75",
+      "local": false
+    },
+    {
+      "index": 25,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 26,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<YO08MFgb7^d4MR;&wZgXjGZid>@=H}Aa%MCT9&CR8;l`xP>ZE16JX>4U6b9r-gWo-uqjiJ5izF-74hWDoO1x8jjhUWIh_IH>rZSAb2696H!H@!EIIx?}eH#fF7v%G{>SBC}`=Qfu1=%}v_3@y%WE$z*PxPmJy!-ETRn@f9iOKoX$b7^d4Uvgz^VRU6=mYUM$=F-^8K%~mp!syD#m`ElEZE16JX>4UJa%F5`bY)~9b#P~LVPs{1ltC5173vo8kPr",
+      "pickup_key": "a436f4a3c46fb0e3fe680eac68ca0484c1c2bc07948c7c03753272b2c7a43cac",
+      "local": false
+    },
+    {
+      "index": 27,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Light Ammo Expansion",
+      "pickup": "m=Q6houSZy1+}%jffeDwg}Ke8y||_ZOlfCmbV6leZ9#2qZ$)@;VQzD2Z*G9Z%EH?P36+Jl%`lKaVr5}%2O)`-g|&Ujm9d4<m6AdeD+_4?lPhBjqbnj|Aea$}m4&pm$(6B%(Up*a)xn*~g^`vbvb;Djw>h-8w?##GaA9t9X>V?9EyNL7UK|)(oZ4I4q9bFgYfE!`qeQ@Ij;*aN&F+l^3XH664bAP1?C&sK+uK=4CId`$ZE0?AbZ8)SWn*Y=Z)|U8c>t9|mB0=%0s",
+      "pickup_key": "ae9a689839455339808c5bb00639566e71c5f6463657615eec6d7a65ed152b39",
+      "local": false
+    },
+    {
+      "index": 28,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Spider Ball",
+      "pickup": "j;7$!$janEgu>X^G1S}|Ss7f25SUvVBR03WI5aP@Ft#>EO>c5=XdpsiY-~&<69Bfixi~ZsF)+3^5IMZLx-zzdg4)8=-sKrJg{i&BfhEzEwJ?xIZDDF}av*7RWo-z}t?o_@3+zlSjggaE+?*N+5SUvV6A1*sEv@cO4Fn8KEscZ@Z!T_(t)VazYkQM}Li-a7V`BT0D`N|zD<r^4t?o_@1PDwmjf4tJt&A>=tciqzV5ZjhCkBEBCKkrR*CtlR7e-b>2UiAnCKg6eDZnuR",
+      "pickup_key": "f5d5e758665dca12e3fe40303d854aa95c1f3211357c0cee37ebe36756ebcd8f",
+      "local": false
+    },
+    {
+      "index": 29,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 30,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<YO08MFgb7^d4MR;&wZgXjGZid>@=H}Aa%MCT9&CR8;l`xP>ZE16JX>4U6b9r-gWo-uqjiJ5izF-74hWDoO1x8jjhUWIh_IH>rZSAb2696H!H@!EIIx?}eH#fF7v%G{>SBC}`=Qfu1=%}v_3@y%WE$z*PxPmJy!-ETRn@f9iOKoX$b7^d4Uvgz^VRU6=mYUM$=F-^8K%~mp!syD#m`ElEZE16JX>4UJa%F5`bY)~9b#P~LVPs{1ltC5173vo8kPr",
+      "pickup_key": "a436f4a3c46fb0e3fe680eac68ca0484c1c2bc07948c7c03753272b2c7a43cac",
+      "local": false
+    },
+    {
+      "index": 31,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 32,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Cell 8",
+      "pickup": "l8W5Q<j(RyhRWF3KyY!<TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$MODR|Z6j*=",
+      "pickup_key": "4f540449fa2fb07761f6ce2223fd32ac4494182f664b5c953170e66acef2f6c1",
+      "local": true
+    },
+    {
+      "index": 33,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 34,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 35,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Command Visor",
+      "pickup": "l7`;e+QQt(K&;Z{-sEyn+uK`MTbT$Inq1r5pu04=x4A-AX>)IKb4(-<U7B3m+<`%DVQO!3jGDsK-sC`%=*rrdNFz3|wKusCG`cdjgcoL)Huoq>%`R>3PHBXK3$sg`dyo@itN<|p",
+      "pickup_key": "960f35ec118557c713ec8cc326fa6416e4f4904df475790f66418a0598d2e035",
+      "local": true
+    },
+    {
+      "index": 36,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 37,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 38,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVG0|I@T$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ34q24gd",
+      "pickup_key": "5fa7948cffd7eb1c4dacfe4eeda50acca516620ca9fa943842d4fa3e39182c6d",
+      "local": false
+    },
+    {
+      "index": 39,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Light Ammo Expansion",
+      "pickup": "m=Q6houSZy1+}%jffeDwg}Ke8y||_ZOlfCmbV6leZ9#2qZ$)@;VQzD2Z*G9Z%EH?P36+Jl%`lKaVr5}%2O)`-g|&Ujm9d4<m6AdeD+_4?lPhBjqbnj|Aea$}m4&pm$(6B%(Up*a)xn*~g^`vbvb;Djw>h-8w?##GaA9t9X>V?9EyNL7UK|)(oZ4I4q9bFgYfE!`qeQ@Ij;*aN&F+l^3XH664bAP1?C&sK+uK=4CId`$ZE0?AbZ8)SWn*Y=Z)|U8c>t9|mB0=%0s",
+      "pickup_key": "ae9a689839455339808c5bb00639566e71c5f6463657615eec6d7a65ed152b39",
+      "local": false
+    },
+    {
+      "index": 40,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 41,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "X-Ray Visor",
+      "pickup": "j<8y!!ty|@(&paean=h|m|jQ~nq1r5pu04=x4A-AX>)IKb4(-<U7B3m+<`%DVQO!3jGDsK-sC`%=*rrdNFz3|wKusCG`cdjgcoL)Huoq>%`R>3PHBXK3$sg`dyo^NtN<|p",
+      "pickup_key": "da562e3fba8599e52e2fea954e2b73db2a652e5d88e553b498701f5777a888c1",
+      "local": true
+    },
+    {
+      "index": 42,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<YO08MFgb7^d4MR;&wZgXjGZid>@=H}Aa%MCT9&CR8;l`xP>ZE16JX>4U6b9r-gWo-uqjiJ5izF-74hWDoO1x8jjhUWIh_IH>rZSAb2696H!H@!EIIx?}eH#fF7v%G{>SBC}`=Qfu1=%}v_3@y%WE$z*PxPmJy!-ETRn@f9iOKoX$b7^d4Uvgz^VRU6=mYUM$=F-^8K%~mp!syD#m`ElEZE16JX>4UJa%F5`bY)~9b#P~LVPs{1ltC5173vo8kPr",
+      "pickup_key": "a436f4a3c46fb0e3fe680eac68ca0484c1c2bc07948c7c03753272b2c7a43cac",
+      "local": false
+    },
+    {
+      "index": 43,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 44,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 45,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 46,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVanW0uT$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ33gpumHp",
+      "pickup_key": "fc6bf1d4dc8d609ba6d2ac3c9592757ba5fed115573a711280ed862d7fe8ec1a",
+      "local": true
+    },
+    {
+      "index": 47,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 48,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Grapple Beam",
+      "pickup": "kdEZS;NaNGK!nP|+A<N`m|Pqi8AuSBSX*K?x4Sa7vbQ=!O>cH(ZDnqBOe7N9TiuykSzDb59Nt{r8CyX?ZDDF}a*Ue7)ZXMklIY6Xm`Ecwu(db25Hz|nwuDC3_hwesR_92Gt?taNtgX(8go0aZd$TKRD|4X(o6DP{D`*oS7=Q",
+      "pickup_key": "0705ee0f9a765d542b1cfd4a80f2a541e4bd7d3e952fe4b812d3cf700f026a40",
+      "local": false
+    },
+    {
+      "index": 49,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Ship Missile Expansion",
+      "pickup": "m>Er>rNDtTrOnNyv6O)o;lYKu&85A#<SDc?xDY0^xw*8qGQ(|Yb8~5IWrmv4=H}Aa%9uzcHnh39w6-#kIlQ^LGPZ(>%JAUA+~(5W-4zw#!G*carM<bZw-7~TcyM8Eb7^mG32m(|Zfz}$tL{v#j4q6<lG9pT+}c|iNEDe{7+o1z6A1*s?X50uZ7qzYu1u|rE{v>%4z3LDOe~C`6^vE@`Dff@1O",
+      "pickup_key": "6ffa7cef383424f837f2e6d0d21d5a4479f46c28c12bd79452d35bdccb6f3f29",
+      "local": true
+    },
+    {
+      "index": 50,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Power Bomb",
+      "pickup": "jG*4`%H%+V-rB@bR2$vdT#%dFSfe(#xi~a0u`sqaMon*WaA+VxVQg$nBohF(x4Aep5HT>eHV`?yxw<m8ga|Bc4ew3!03ozDy*H35GO@HbH?}vkyuovCZDk;s0S%$O>AZo_m5rgfy|KNW<RG@NwKus&O<`(pav(``Wo=9(5t~?Ao7{*RT^U<qGi!U3gF^cg3u9zt*7qj{f&?ZO#>B!wFbivYlY>D66ANQu1Dng6qbq1k1lr!@;LyIr!r0ip<jUB>=*r135^H;tgFyll3u9pdlPhBjqbnj|Aebq&y~)9#fr*8&u(ipRv4zo<kb%{~oymofmI6-2a1A<j)ENi",
+      "pickup_key": "586138c20c55d5f43f9f95439d0cb35ec2633858bd780204cce0768dc7f4226b",
+      "local": false
+    },
+    {
+      "index": 51,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Dark Ammo Expansion",
+      "pickup": "m<<ty$*h3|wY9u~72&~!xy_}$xTXa}VRCCiWnpbWZEbHwcyM8Eb7^mGfW*qe+XV@gg|*EvkU(N(VQmK?iIs)5eaV%vh0&FgLK7<sX#$fgV+*4zB4Hqy5s8(Bw6)2Vv4zo<kb%{~oymofmLjseI54+4w70iKMR;&wZgXjGZfq^Y5m{aw7+aj$Tic=|W2<XRb9<viz-f-Htu4*&jRXpetZfa=?Tzg3FkIW)Sx6=WOm%H(Zf|sGAarG8Xl`$8Z)bS`l*5(44l)7",
+      "pickup_key": "396e1f446317cde4a4c2b8ea21461a17daec2d6784a3454689f862dcde7f3a75",
+      "local": false
+    },
+    {
+      "index": 52,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Gravity Boost",
+      "pickup": "l8)rU?9%A+K!o1j=IBxp+?ZXOT^>-I+uYqEHn+Pnwz9W6L``pYWo>0{bW9`?+gsh4TUlG32pryA-5Fa!#B6nKX>M<HXqXK#)wQL$z0sh7QI(CMxxKNyo#qRhduu5Kz-f-Htu4*&jRX#itZfa=?Tzg3AqBOCslCcFYYS6*kpfGjD{5gNjM~D~-sC{i=*rs>8(ZC(TUlG3A||)HGPbg}IwlecZLRLit*ouigbr^mZj7y<OGR7&F#r",
+      "pickup_key": "ccdbfc0ed9a0c5b25508306cc96641e12e99dac3edeb90b85fd74e29544d1788",
+      "local": false
+    },
+    {
+      "index": 53,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 54,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Light Ammo Expansion",
+      "pickup": "m=Q6houSZy1+}%jffeDwg}Ke8y||_ZOlfCmbV6leZ9#2qZ$)@;VQzD2Z*G9Z%EH?P36+Jl%`lKaVr5}%2O)`-g|&Ujm9d4<m6AdeD+_4?lPhBjqbnj|Aea$}m4&pm$(6B%(Up*a)xn*~g^`vbvb;Djw>h-8w?##GaA9t9X>V?9EyNL7UK|)(oZ4I4q9bFgYfE!`qeQ@Ij;*aN&F+l^3XH664bAP1?C&sK+uK=4CId`$ZE0?AbZ8)SWn*Y=Z)|U8c>t9|mB0=%0s",
+      "pickup_key": "ae9a689839455339808c5bb00639566e71c5f6463657615eec6d7a65ed152b39",
+      "local": false
+    },
+    {
+      "index": 55,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Sky Temple Key 9",
+      "pickup": "m;p_#<bhF@wZXBJfi0EffaIhpwY;h_wzxJjrLw%rb8C5DbY*RDY-L|-WqFjQ*7888%G%)A%0QON@|Z{^DYd+iDl)dXHZqVUvb@4=Y_BaXmE|yyHnvxgl;+m*zUa!@;MmH(*2?oKO|9gCQI)m9v6O)=mE|yyN>gijAXH^-aBO8DOJ#Y2_5_w9",
+      "pickup_key": "e3bffecd71ae37fb9d829f5f2120048bc3d4e2e0e31c34a451ce20568097b7c9",
+      "local": false
+    },
+    {
+      "index": 56,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Plasma Beam",
+      "pickup": "j-c4W=GwwQgv!F&G1MCvT-#Vk5Sdt8U@<bVw!uPWVQq6vBoG*xSX)8BVr5}%f`rP#+UA%@ATctqwuFWzRu<LwCRWB5Mpj7(Osp-W3QVnxE{v>+go0p3CRP^G*CtlR7e-b>2UiAnCKg6eg4)8=-sKrJg{i&BfhEzEwJ?xIZDDF}av*7RWo-f+0}u",
+      "pickup_key": "ac715da7b25a52f13fa111bcb98b17b877d58d09fd5397cf8b9e091c4de0abd4",
+      "local": false
+    },
+    {
+      "index": 57,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Artifact of Lifegiver",
+      "pickup": "m=y)d(WRM%jnIL;n1L~+nU$TT*_Fs<1wnFjX=Y(#bRchLAWUgyWoK!2WpaqZ<ml4O!p7+l1<BE+nT3tfu(uFIVRCe7W?^G=1rdeG(WRM%jnX0ulcP&B3mc<hZXk%l<ml4O!p7(gt(E1avb?4e2G+{*1_%*F4-lX",
+      "pickup_key": "83a6ca9c9feeaafd49da54f3f9f87b3a0d011888e3f86def3027baac76ee7a78",
+      "local": false
+    },
+    {
+      "index": 58,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Sky Temple Key 8",
+      "pickup": "m;p_#<bhF@wZXBJfi0EffZ(JlwY;h_wzxJjrLw%rb8C5DbY*RDY-L|-WqFjQ*7888%G%)A%0QON@|Z{^DYd+iDl)dXHZqVUvb@4=Y_BaXmE|yyHnvxgl;+m*zUa!@;MmH(*2?oKO|9gCQI)m9v6O)=mE|yyN>gijAXH^-aBO8DOJ#Y2@&uM5",
+      "pickup_key": "9026fe4ce5fd56d5205423fc27e5ae623bf30be31e88c02e33dd3ee5b9cfd3a3",
+      "local": false
+    },
+    {
+      "index": 59,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 60,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<YO08MFgb7^d4MR;&wZgXjGZid>@=H}Aa%MCT9&CR8;l`xP>ZE16JX>4U6b9r-gWo-uqjiJ5izF-74hWDoO1x8jjhUWIh_IH>rZSAb2696H!H@!EIIx?}eH#fF7v%G{>SBC}`=Qfu1=%}v_3@y%WE$z*PxPmJy!-ETRn@f9iOKoX$b7^d4Uvgz^VRU6=mYUM$=F-^8K%~mp!syD#m`ElEZE16JX>4UJa%F5`bY)~9b#P~LVPs{1ltC5173vo8kPr",
+      "pickup_key": "a436f4a3c46fb0e3fe680eac68ca0484c1c2bc07948c7c03753272b2c7a43cac",
+      "local": false
+    },
+    {
+      "index": 61,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Seeker Launcher",
+      "pickup": "mZr+e*2?5Sn8NDZ#?Z>-Qk2<QTG?Ea7+qVK+8JD-wzRpqw6-$CO=)v;X>4UoBodoiT-@4Q8Au%7T-_O4LIg&~R@Rp0_eP0;(;Zt{Tbtb)2o)Jv+8dkO8`<7qxwp2mkW2=c>e|xW-ssRk=*q^>+}_yU&hijjSX!Ihqb9JmH@Ofbx-zz=5(v$#Eluu34K9qWu?@AQ&CR8;mKtkIo105xDq$d$+S2Cc(%8yC=JMv~%Gwg!T3p=PTNzi}nOhiL8CfN!w7I#owla_@GPW?fGO{KT34z;MT-@4Q8B1K5TNqs#SqL3m8Qhpz8DN)^h$6TGy+Yd%",
+      "pickup_key": "3a936400da60e76f4fddaf28bdd3b00e8ad3e9c75153b63519bb4cdf86270ba7",
+      "local": false
+    },
+    {
+      "index": 62,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 63,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 64,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVG0|I@T$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ34q24gd",
+      "pickup_key": "5fa7948cffd7eb1c4dacfe4eeda50acca516620ca9fa943842d4fa3e39182c6d",
+      "local": false
+    },
+    {
+      "index": 65,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 66,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 67,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Power Bomb Expansion",
+      "pickup": "m=Qs}-Id6J3B9$5ffeDwg}Ke8y|`usP;Yl-av(x)ZDJrrcyM8Eb7^mGjN0Dh;LyIr!r0jvHNDBfpn(a6v9U0aOaj{8<lxXi#KPFvK<4u1=*rp(D=Wi;3v-)GdvsJ+hXxksHkS70!rVa>mEpmKxy_}$xF!N^Z*p*GUt(cwY+rI^Y+-a|WS9vxy~)9#feD4Nuz^XHv4zo<kuZ=<6x!b8;Lt$C!r0ha<jUB>=*q}I>fp}g!pO=1j>ytIOk@N",
+      "pickup_key": "0980c786d6931db07ea9f3e61650ba75e33e06da775bd9a6000357fb12ff565e",
+      "local": false
+    },
+    {
+      "index": 68,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 69,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 70,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVanW0uT$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ33gpumHp",
+      "pickup_key": "fc6bf1d4dc8d609ba6d2ac3c9592757ba5fed115573a711280ed862d7fe8ec1a",
+      "local": true
+    },
+    {
+      "index": 71,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Power Bomb",
+      "pickup": "jG*4`%H%+V-rB@5lpEdIT!;{x+gPJEx4AepFR?JTHbzZva&TxMLSbxdOe7Nkwzs)BG!QW`wl)wsyt%qEwu6G&!qnd788wBey~u$j(Ur9@kVb7`YHxBNX>?_62+ghTP7Mp}Of8L(lUv-J8VC@WTN@Jz1i&q=?oJH^3`{MJgbr^mZj7y=FcWKglY>J06ANQv`;#kU3!^I}z)7v{P7MSIOf8Ls3QVnxE{v>+go0qE*7qj{f(9lQ#=_SoR>l`bRze3?26rYFMo=`wc7BoSF#r",
+      "pickup_key": "8a22f5c0402b9eb319f2278adb1b5447b72a9b73608690635078b5bb8a2f1899",
+      "local": false
+    },
+    {
+      "index": 72,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Power Bomb Expansion",
+      "pickup": "m=Qs}-Id6J3B9$5ffeDwg}Ke8y||_VP;Yl-azbxyVnujxVQzD2Z*Gj*-sIrWzQn@V*%>vx$-$t335Bt-Fpx|F+TP^g&_Kk(*w{ek^5*Eu+71gFLwnPFzzA&(?@i<ijI3=9&Fzis?=W23+gV5^07GbRdT$_fWn*Y=Z)|U8c?hhp4h${MZ7uE5QC=JvTb$Zk+nWn<1Xfpv1{UWwmiFkF3AMe+!J&PLg|V@H$(6B%(Up>5B-ZyQ27&}87RJH_CRWB5Mpi_^K`>Kmdy|7f0}~5lVQZ5sV+*4zAp@&}JCh3|ECiiu;0ko>xX1_",
+      "pickup_key": "a80698dd5c28398a05c9fea254bc417ead9af40613d59f484baf75bca39d99ce",
+      "local": false
+    },
+    {
+      "index": 73,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<YO08MFgb7^d4MR;&wZgXjGZid>@=H}Aa%MCT9&CR8;l`xP>ZE16JX>4U6b9r-gWo-uqjiJ5izF-74hWDoO1x8jjhUWIh_IH>rZSAb2696H!H@!EIIx?}eH#fF7v%G{>SBC}`=Qfu1=%}v_3@y%WE$z*PxPmJy!-ETRn@f9iOKoX$b7^d4Uvgz^VRU6=mYUM$=F-^8K%~mp!syD#m`ElEZE16JX>4UJa%F5`bY)~9b#P~LVPs{1ltC5173vo8kPr",
+      "pickup_key": "a436f4a3c46fb0e3fe680eac68ca0484c1c2bc07948c7c03753272b2c7a43cac",
+      "local": false
+    },
+    {
+      "index": 74,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Artifact of Wild",
+      "pickup": "m;nXJ(WRM%jnIL;n1NlTv5;l}L2`6yW?^G=Aa7<MS7~fyh{ELP(#*of=@A9V(WRM%jnS~T5JX{ebZKT`V{`=(g~`#SnT3tgA`6qFOEU`_qhW3!h{ELP(#*of=nbuv<)yN`rV<9$%JK#H5k(IWpa",
+      "pickup_key": "12d71a4e39cf57a66eada9b44f8745a344403534a14481358d9e9b9d0b2caffe",
+      "local": false
+    },
+    {
+      "index": 75,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 76,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 77,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 78,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Flamethrower",
+      "pickup": "kc`;E+REtA<lgSe<T4SP7+YCg8XTM5*<7SCv@p3dvahkXwy`(KLug@gXJsHmZ*5|4b4(->7}^+Inb}Af+uK;1!N_7|VQpV>Wo%(|Wn_?q%EH<}q{`UB=*q~LNG1egWnpbCa%F5`bY)~9b#P~LVPs_q3~dZ9Ozf-dZSAa0@=)3sT$$NO5Zl{Wo7~e01co+-7bbR61~&HACh&sV!qnd788wBey~u$j(Ur9@kVb7`YHxBNX>?_60z?B4",
+      "pickup_key": "a219596f7740577371044f209b94f1749281a844cfd4d333a77cf48dd9c7ef02",
+      "local": false
+    },
+    {
+      "index": 79,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 80,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Dark Visor",
+      "pickup": "jEKVI)<CS%=HBE{Q5amB)tX$}+@QNOxwpAOR%vr@a&t^15M7#F+uVW-21XYqxd@CdO=YMpjV$fVtciqzU`9q4CbHHR#+G*GRze3?26rYFMo?`ItdWuxQ3w>?T-_O4QwaoQg;YWZH<vd?R@jKx>e|xW-ssUV8e^+#OLKdpK?0*I8$)w@V|zQy7dH0RQVD?59a~yko81}+9T`~K8=Ko3+1^46YYS6*lw{TxruQNQmqu39!a*6eg{i&Bfu+%vwjjGSxwpAOR%vr@a&t^15M7#F+uVSPinst`",
+      "pickup_key": "c784ff14a7d01fb54b74296545731df2557db55c4659339feb7c0aa4d793504d",
+      "local": false
+    },
+    {
+      "index": 81,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVanW0uT$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ33gpumHp",
+      "pickup_key": "fc6bf1d4dc8d609ba6d2ac3c9592757ba5fed115573a711280ed862d7fe8ec1a",
+      "local": true
+    },
+    {
+      "index": 82,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Dark Ammo Expansion",
+      "pickup": "m<<ty$*h3|wY9u~72&~!xy_}$xTXa}VRCCiWnpbWZEbHwcyM8Eb7^mGfW*qe+XV@gg|*EvkU(N(VQmK?iIs)5eaV%vh0&FgLK7<sX#$fgV+*4zB4Hqy5s8(Bw6)2Vv4zo<kb%{~oymofmLjseI54+4w70iKMR;&wZgXjGZfq^Y5m{aw7+aj$Tic=|W2<XRb9<viz-f-Htu4*&jRXpetZfa=?Tzg3FkIW)Sx6=WOm%H(Zf|sGAarG8Xl`$8Z)bS`l*5(44l)7",
+      "pickup_key": "396e1f446317cde4a4c2b8ea21461a17daec2d6784a3454689f862dcde7f3a75",
+      "local": false
+    },
+    {
+      "index": 83,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVG0|I@T$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ34q24gd",
+      "pickup_key": "5fa7948cffd7eb1c4dacfe4eeda50acca516620ca9fa943842d4fa3e39182c6d",
+      "local": false
+    },
+    {
+      "index": 84,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Grapple Swing",
+      "pickup": "l8)rU;NaNGK&I}}+|F`Q+?ZS(8yQFx-P&83;j_6gxHvX4!$)#qaBys8Oe7MS+?ZS(8yQF(-dx=oTR}r-a$#_AY-NUy<ig<K*vgnlB{R7&xHvX4kU6}$x-zze7S<M~_bAD%Eluu32`-GSsf2<vYYS6*kpoMkD`*lTtN<|p",
+      "pickup_key": "65e244b9dcfdd85bd39b9ef1ab25106ee6beee9e77ff77ae082011fd5bde6f3a",
+      "local": true
+    },
+    {
+      "index": 85,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Progressive Suit",
+      "pickup": "m;ph_y`9OG&CR9Rlz~mvrO>7XR$+2!VN-Q!bRbDiLr+amOhr^hfadDb=><*IrP0kWkU(>FX><q@8yZ=eSKQrP92?x7BqlVoGLR{{xHvbtIwlecfZG~bnMfSnTpSzRod_J>T-_O4Vk2X#YfE!`qeQ@Ij;*aN&F+l^3XH664bAP1?C&sK+uK=4CId`$ZE0?AbZ8)SWn*Y=Z)|U8c?d16EluuGlUQ1t+=vog8Cz2c1ZLJ2ruQNSmqu3DfadDb=><*IrP0kWkU(>FX><fO9Tji@!~",
+      "pickup_key": "afe5801ac8c947ab91163253e369d7e42db6d4dfa6a7a2ceaaf96c9bd4cf959a",
+      "local": false
+    },
+    {
+      "index": 86,
+      "assigned": false,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Nothing",
+      "pickup": "hMeB$(9+z_aMPRJ8X8-f;kvo9wlcZ7!&P%-Y-MwEY%RnS10uIFxih?wDmgH>IkPgk5GJ>>I<_)_hU(_Z*vjVT4OPvRv6aouu(uFQ42s;!<j(RysN}-j=FH0EK$_mj>e$Kv761",
+      "pickup_key": "f0cbddb219b31bfd3d3ae369f0809f9a7a22fd3b9aea92d92d8ebfd81c4c3a12",
+      "local": true
+    },
+    {
+      "index": 87,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 88,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Violet Translator",
+      "pickup": "m<3s-y|I<hfl<kYxy`YK(Y?r~09I*lY-My*a$#<BY+-b7a*XKY!rbQA!sy=R9Z|`Jxy`YK(Y?vdFpx%ca$#<BY+-b7atIBf)siwosv!cK%bTMsYGELZkgAA4=JMv~%G(he9a~yko81~F159;oX>M<HXdqN&V`y$~Y;R|Ig67`Z%0Vz1W2<XRb9<vf1EVV&Lvwp$dppQMZDDF}a*Ue7)ZXMklIY6Xm`Ecwu(db25Hz|nw!~*gCKl&5#urBSDC&+(EzWI>E{*O^X@r6^qmv7Bn_~;3dyp29R{#t^",
+      "pickup_key": "30f8e04f1d30850b4eeb739e40360d3dcf773f7c2701ee395e6e0907c137126c",
+      "local": false
+    },
+    {
+      "index": 89,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Boost Ball",
+      "pickup": "jD+6a=IB6#!r0g`kel1w-3SnvTN@)bx4AepFR?JTHbzZva&TxMLSbxdOe7Nkwzs)BG!QW`wl)wsyt%qEwu6G&!qnd788wBey~u$j(Ur9@kVb7`YHxBNX>?_62+ghTP7Mp}Of8L(lUv-J8VC@WTN@Jz1i&q=?oJH^3`{MJgbr^mZj7y=FcWKglY>J06ANQv`;#kU3!^I}z)7v{P7MSIOf8Ls3QVnxE{v>+go0qE*7qj{f(9lQ#=_SoR>l`bRze3?26rYFMo=k0F#r",
+      "pickup_key": "484bee596f65df6f27afaa06d449f0e9703d003f3b3da2778127a36c5743f3ca",
+      "local": false
+    },
+    {
+      "index": 90,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "pickup_key": "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b",
+      "local": true
+    },
+    {
+      "index": 91,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Launcher",
+      "pickup": "m;p7V&CR8;lz}mY)wzwKmB?YHw7I#owlc$QX>)UFY-NU;(&pyU*vgnlB{sCVxwN)2kU6}$x-zzdg4)8=-sKrJg{i&BfhEzEwJ?xIZDDF}av*7RWo-y;tuAhDEsU_!T3p=PTNzUc1g6%PH#U~WQU^DeH%3;_mfF(h=F-^8zU0c-!syD$Ej6Xh&84xFfk~CIh0&FfFpx|R+S2Cc(%8yc<jUB>=*q}I>fp}g!pO=7xQP2Y#IVE",
+      "pickup_key": "8d41d927683401d56ddd6974ad7c4ef09cc9bb0e1c454e5f13ec746f2af2893a",
+      "local": false
+    },
+    {
+      "index": 92,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 93,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 94,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVQIT7jT$$cg7+ad-vbQq1GrX_5Ft;_xMQ&wsXL%r0VQy=4Y%RnQ(Oa2Zncheh7+ad*!DDD|dT*Ek4WYg1yn#`bjiI@{vAvz<3!8guDFna>Z4K{D<PMCiZ4J%sjqL9s9hJG2$(`kW(S^CLLMwAClRL=*qYHCen_+Gsj*8sM<j(RysKVUW5*r#>nOEH1TpSzRog^kSvoeq=y0|zuxjH5i34q%gS(!*2-CP_S+?@y<-dx=oTVSSnR{#SbG5`",
+      "pickup_key": "0ce37e054045020c63bbd086ddab629cc087ffbfaaa85332a3413aee6aeefdd1",
+      "local": false
+    },
+    {
+      "index": 95,
+      "assigned": true,
+      "recipient_world": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+      "recipient_game": "prime2",
+      "recipient_name": "Echoes",
+      "item_name": "Light Ammo Expansion",
+      "pickup": "m=Q6houSZy1+}%jffeDwg}Ke8y||_ZOlfCmbV6leZ9#2qZ$)@;VQzD2Z*G9Z%EH?P36+Jl%`lKaVr5}%2O)`-g|&Ujm9d4<m6AdeD+_4?lPhBjqbnj|Aea$}m4&pm$(6B%(Up*a)xn*~g^`vbvb;Djw>h-8w?##GaA9t9X>V?9EyNL7UK|)(oZ4I4q9bFgYfE!`qeQ@Ij;*aN&F+l^3XH664bAP1?C&sK+uK=4CId`$ZE0?AbZ8)SWn*Y=Z)|U8c>t9|mB0=%0s",
+      "pickup_key": "ae9a689839455339808c5bb00639566e71c5f6463657615eec6d7a65ed152b39",
+      "local": false
+    },
+    {
+      "index": 96,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<XernI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGzdQv8+oNRR{",
+      "pickup_key": "b15866d05f22e6747b89d81de6c0e526fe5763242bbf937a2fb1c0d75a8ee692",
+      "local": false
+    },
+    {
+      "index": 97,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Hyper Grapple",
+      "pickup": "l92M?%H%+f<ig<K*vfKJ9$Xn*h!NbFTpSx2VzfNCGPyRlvNFX;d2nTNZEs{{Oe7NkG(5O6xi+`5GLSjExw<m8f{M`c;L7CM-pI=pA?3l9$+f+al`xP@0MPQ_%H-PK$jU(G^5*Eu+7Me<TASRXCa|?Pxez3}GPb4?2+gc5P3}YuE{v_9XNs@@!~",
+      "pickup_key": "c1fc78eb2195798c3bc5b19f6190f3a7c7f15938b9a7c54afcda484cf6b3fc38",
+      "local": true
+    },
+    {
+      "index": 98,
+      "assigned": true,
+      "recipient_world": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+      "recipient_game": "prime1",
+      "recipient_name": "Prime",
+      "item_name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVG0|I@T$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ34q24gd",
+      "pickup_key": "5fa7948cffd7eb1c4dacfe4eeda50acca516620ca9fa943842d4fa3e39182c6d",
+      "local": false
+    },
+    {
+      "index": 99,
+      "assigned": true,
+      "recipient_world": "55e41b3d-d26a-5b2a-b25a-bab25b3ab8dc",
+      "recipient_game": "prime3",
+      "recipient_name": "Corruption",
+      "item_name": "Ship Missile Expansion",
+      "pickup": "m>Er>rNDtTrOnNyv6O)o;lYKu&85A#<SDc?xDY0^xw*8qGQ(|Yb8~5IWrmv4=H}Aa%9uzcHnh39w6-#kIlQ^LGPZ(>%JAUA+~(5W-4zw#!G*carM<bZw-7~TcyM8Eb7^mG32m(|Zfz}$tL{v#j4q6<lG9pT+}c|iNEDe{7+o1z6A1*s?X50uZ7qzYu1u|rE{v>%4z3LDOe~C`6^vE@`Dff@1O",
+      "pickup_key": "6ffa7cef383424f837f2e6d0d21d5a4479f46c28c12bd79452d35bdccb6f3f29",
+      "local": true
+    }
+  ],
+  "incoming_recipes": {
+    "86bdc930cc132ff7b4c75b737bfd899cbffc132508c465ebf446ffe8d80a3e22": {
+      "name": "Energy Cell 9",
+      "pickup": "l8W5Q<j(RyhRWF3Kyq=>TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$QODR|Z6j*=",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 2
+        }
+      ]
+    },
+    "0f7fda638cd513340002e748e96a46308f0be986da3b93c53f51d30d9093fb4b": {
+      "name": "Missile Expansion",
+      "pickup": "m<2VZ&CR8;lz|oD!G*carM<Y}rnI@aw6-$CZE16JX>4VNn$qUx(%8zFNF_G3xw*8qGLSjExw<m8f{M!U;KJPI(%#(_72&~!xy_}$xv;koMP+z!VQzD2Z*B=~tuAhDEsU$~Os$MAjI5H=T3p=PTNy|cnOhiL8Ceqv1i<aBE^citjHRwjt&A>=tb`7(4DL)UjGz#ZMPLtNd&WRO",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 12
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 14
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 16
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 22
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 33
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 48
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 50
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 55
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 60
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 75
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 76
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 81
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 85
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 88
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 91
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 15
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 23
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 29
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 34
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 38
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 40
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 41
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 47
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 50
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 55
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 60
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 61
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 64
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 67
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 76
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 83
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 89
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 90
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 91
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 100
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 102
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 112
+        }
+      ]
+    },
+    "965788d5243c7dab6768b08d113049d4e756ec366ca7d638642374c35c43c38b": {
+      "name": "Hyper Missile",
+      "pickup": "l92M?%H%+r(&pyU*vfKJ9$Xn*h!a{|+}c|iVzfNCGPyRlvNFX;d2nTNZEs{{Oe7NkG(5O6xi+`5GLSjExw<m8f{M`c;L7CM-pI=pA?3l9$+f+al`xP@0MPQ_%H-PK$jU(G^5*Eu+7Me<TASRXCa|?Pxez3}GPb4?2+gc5P3}YuE{v_9Ws0x>!~",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 13
+        }
+      ]
+    },
+    "c3c127572245a9038bf8d8239b489e7cc4487a56b14ad7c79a87ac80a28ab5da": {
+      "name": "Energy Cell 1",
+      "pickup": "l8W5Q<j(RyhRWF3Kw@#xTbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=#_ODR|Z6j*=",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 15
+        }
+      ]
+    },
+    "fc6bf1d4dc8d609ba6d2ac3c9592757ba5fed115573a711280ed862d7fe8ec1a": {
+      "name": "Energy Tank",
+      "pickup": "j*8sM<j(RysKVUVanW0uT$$cT6&PEZ<FdChxih@4x-hpj$VF~ta%XuURAFvwb8Icd5z$+jT$$cT6&PEZ!N+B8WpZbEUvyz^YmkcE%H+=SK&Zmp*5=q-h$Eu6GPyInkSZ{@HH3!7mS$D=H&+J+_a{jSjV#Qh3U00r4em~fgo0o;#+GJM2RBy-2KOgI2RD~DMpn>*+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ33gpumHp",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 24
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 27
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 69
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 71
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 86
+        },
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 98
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 35
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 85
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 108
+        }
+      ]
+    },
+    "3d8c3db44f3b309fc5fce8bdc1524cfaedfd6c0d9554e5e617b0e61dac271b44": {
+      "name": "Progressive Beam",
+      "pickup": "m;ph_y`9OG&CR9Rlz|DAg|y?SHZZxiu#h1#u(rTrWnpcCgv!F&=9owzF*2~Wf`G)z!rKK2m4&s<FpxlEWnpayEvzj~?opFiTASR65?vWvQwaoS))uDsA_kX6R?tAfMOXl0",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 29
+        }
+      ]
+    },
+    "24c47ae5e7fc64657e3f83521371ab4dee71830865d2b31488f1ed96ddaf3e22": {
+      "name": "Boost Ball",
+      "pickup": "jD+6a=IB6#!r0hxkel1w-3SnvTN@)bx4AepFR?JTHbzZva&TxMLSbxdOe7Nkwzs)BG!QW`wl)wsyt%qEwu6G&!qnd788wBey~u$j(Ur9@kVb7`YHxBNX>?_62+ghTP7Mp}Of8L(lUv-J8VC@WTN@Jz1i&q=?oJH^3`{MJgbr^mZj7y=FcWKglY>J06ANQv`;#kU3!^I}z)7v{P7MSIOf8Ls3QVnxE{v>+go0qE*7qj{f(9lQ#=_SoR>l`bRze3?26rYFMo=)tSO8)",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 30
+        }
+      ]
+    },
+    "9f2b47b172417168d74f02e670d4250ca6a1ea076b779d520fe05247b428f316": {
+      "name": "Energy Cell 4",
+      "pickup": "l8W5Q<j(RyhRWF3KxlE%TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$6ODR|Z6j*=",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 39
+        }
+      ]
+    },
+    "9af047fb6c9d554a848efcd54446ad04b1469d5f8b65c4a20bf97c719f61a58b": {
+      "name": "Hypermode",
+      "pickup": "ijeZ)%H-PK$jWh29$Xn*n_Jl#VzfNCGPyRlvNFX;d2nTNZEs{{Oe7NkG(5O6xi+`5GLSjExw<m8f{M`c;L7CM-pI=pA?3l9$+f+al`xP@0MPQ_%H-PK$jU(G^5*Eu+7Me<TASRXCa|?Pxez3}GPb4?2+gc5P3}YuE{v_9V~Vf<!~",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 41
+        }
+      ]
+    },
+    "34fc694b63ca4012d413da2625336cb9cffbb16c11a9acd8233c560815142f6a": {
+      "name": "Ship Grapple",
+      "pickup": "kfzYm;6RS#!r<W8%5oIi8e9kw+?ZS(8yR7<xiGjmHZsFUa$#_AY-LO&5}DkXTpSx2NF3f=-5Fa!LuYbfaBys8hK}UI;NaNGm`EivxiGjmHZqVoyt%qEwuBbe7N++o$*e6+?nDVLjIF7Jf-`FiQ+tsEOQS1j8se+~F#r",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 44
+        }
+      ]
+    },
+    "0e41f4557352c0b0f73f66004e553a6e207dc40d56ba131f374fe682fad6f633": {
+      "name": "Ship Missile",
+      "pickup": "kfzYm;6R$v=H}Aa%5oIi8e9kyT3p=PTNz=tw7I#owlc#_X>)UFY-LO&5}R6F+}c|iNF3f=-5Fa!!EIq`Z*q*9!qnd6K$7Un+L%ZqHn6ofxezqEGPZ;^)|WRnmd03VtuAhDEsUvzf>Ucto105xDFd6!o1-geOKoX$b7^d4Uvgz^VRU6=mYUM$=F-^8K%~mp!syD#m`ElEZE16JX>4UJa%F5`bY)~9b#P~LVPs_hta7jq%RaFH",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 47
+        }
+      ]
+    },
+    "3c2f3956aa41069bdc40cf60e2b881316c0d5493768e7ce854ade378004d6e73": {
+      "name": "Hyper Ball",
+      "pickup": "jF9r+%H%+V!r0hxk{(<cT!;{uTN@&@Jh(EsHn*}e#YlN@WpZtAWMxbw696<kxH7pmx3V&jIlQ^LGPZ(>(DLBQ<l5fI%M~Hz!IjCiy^)nLkW2v3^5Dwk+TO^@K<4u1=*rp<TUc6~+@mJ2wKusCB)T%TrV<FvtSwFML=7&Ct)OO#umHp",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 51
+        }
+      ]
+    },
+    "61683641737e6d8685706d1b9d4680cf1fd5a1e94b0d9ca861e5ef160dcf4f14": {
+      "name": "Spider Ball",
+      "pickup": "j;7$!$janEgu>X^an#%zSs7f25SUvVBR03WI5aP@Ft#>EO>c5=XdpsiY-~&<69Bfixi~ZsF)+3^5IMZLx-zzdg4)8=-sKrJg{i&BfhEzEwJ?xIZDDF}av*7RWo-z}t?o_@3+zlSjggaE+?*N+5SUvV6A1*sEv@cO4Fn8KEscZ@Z!T_(t)VazYkQM}Li-a7V`BT0D`N|zD<r^4t?o_@1PDwmjf4tJt&A>=tciqzV5ZjhCkBEBCKkrR*CtlR7e-b>2UiAnCKg6eF-2GaVg",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 59
+        }
+      ]
+    },
+    "4ccb281291c12896af9d3afb118a2864b36aae555f1bf98e8dcfe7b1b10a8d5c": {
+      "name": "Energy Cell 5",
+      "pickup": "l8W5Q<j(RyhRWF3Kx%Q(TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$AODR|Z6j*=",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 67
+        }
+      ]
+    },
+    "3d94ee2a663ab1a247af7f5a5c48bf33adb127f4aee4dca8bf40b88e8f6a4c2d": {
+      "name": "Progressive Missile",
+      "pickup": "m<>V6y`9OG&CR9Rlz}y+&CR8;l;fnavXCaUxw*8qGQ(|Yb8~5IWrmv4=H}Aa%9uzcHnh39w6-#kIlQ^LGPZ((+QQV{<ry`FslCX7CDE0&Fpx%VVQO!3AZc`EZ3u0xE^citjIh&MT-@4Q8B+-arq-7?HkQUx2RD~DMpn>5!$nvCVg",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 74
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 80
+        }
+      ]
+    },
+    "6ffa7cef383424f837f2e6d0d21d5a4479f46c28c12bd79452d35bdccb6f3f29": {
+      "name": "Ship Missile Expansion",
+      "pickup": "m>Er>rNDtTrOnNyv6O)o;lYKu&85A#<SDc?xDY0^xw*8qGQ(|Yb8~5IWrmv4=H}Aa%9uzcHnh39w6-#kIlQ^LGPZ(>%JAUA+~(5W-4zw#!G*carM<bZw-7~TcyM8Eb7^mG32m(|Zfz}$tL{v#j4q6<lG9pT+}c|iNEDe{7+o1z6A1*s?X50uZ7qzYu1u|rE{v>%4z3LDOe~C`6^vE@`Dff@1O",
+      "sources": [
+        {
+          "world_uuid": "6792570f-3211-5e84-a6ac-bef2b0ec86fa",
+          "index": 89
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 19
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 27
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 59
+        },
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 94
+        }
+      ]
+    },
+    "f62015c5aad9bade38534ae27128aad8e283174e96d24bd50384332ad6cce5cb": {
+      "name": "Energy Cell 7",
+      "pickup": "l8W5Q<j(RyhRWF3KyGo-TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$IODR|Z6j*=",
+      "sources": [
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 12
+        }
+      ]
+    },
+    "4547d568d96427c7462474dde200fe319700be78fe500e2c30bf69aaaf9544bf": {
+      "name": "Energy Cell 6",
+      "pickup": "l8W5Q<j(RyhRWF3Kx}c*TbW#$-bfJHTN@*?w=%giysxpcwl+saZe?<3c_2e&Y;0^T#1YwBnOvFPNEq2$8v#dUZe?<3d0%5?Y;2B-+{)z6@<4{l*x1-xh$FJMGPyInkTJ5hHUn#Ad1-8~DTINwvb=$EODR|Z6j*=",
+      "sources": [
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 14
+        }
+      ]
+    },
+    "faacaf8b5a9a980a3e6de88e698389b619619f8db4d5ec69f0c073373a412970": {
+      "name": "Screw Attack",
+      "pickup": "kfz4u%I-jd=;*@6)^Zfs+?id-5M3P@SlZ$?x4Sa7vbQ=!O>cH(ZDnqBOe7N9TiuykSzDb59Nt{r8CyX?ZDDF}a*Ue7)ZXMklIY6Xm`Ecwu(db25Hz|nwuDC3_hwesR_92Gt?taNtgX(8go0aZd$TKRD|4X(o6DP{D`*rVtN<|p",
+      "sources": [
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 16
+        }
+      ]
+    },
+    "844d2f731f6e9c31ce527aa2459667a84979f6382331db8d3c73e740adaf795e": {
+      "name": "Missile Launcher",
+      "pickup": "m;p7V&CR8;lz}mY)wzwKmB{7*O=)v;X>4U6Oks6yV`yb^hT78R=F-^94K=0B&84xGFpx@ZX>)UFY-J#Gd2@7SZ3P9jg{i&DGHVM{dyxW5qbq7*AdK3=)ZXMk(&)<C5ZhW@+}c|iVWzaXxwN)2rV<HFtuAhDEsUfNZ!T_(t)LK)MPMIddtv",
+      "sources": [
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 44
+        }
+      ]
+    },
+    "b4d4c00d4907ec9924f40ebd92ef876cae44d493dfc02f15f5176081149fcdf0": {
+      "name": "Hazard Shield",
+      "pickup": "l90mm!sN(6rqI&L*vN8H7+#oMnFtix8d+NzAUV3Ux<ONQX>@Z;BoG|kT3rFiY-wg?UvqVEaBp&SkeJfU%0Q;-;Nafm=$J?*18iw#Wgv5PaBy#ObRctib97~G2raBFP3}>XSX!Ihh!R~HTT=-HX4V#__aX+DMpn>(=IYYv1x?kZ(akWBKy!6zbOMW&U;&5",
+      "sources": [
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 45
+        }
+      ]
+    },
+    "ade6ced5dc842c7633a5cef9ca1af6e6da012ebac748f3b83a4862902436f7b1": {
+      "name": "Grapple Lasso",
+      "pickup": "l8)rU;NaNGK$ybj=H7Bq+?ZS(8yQFw7+l=j;j_6gxHvX4!$)#qaBys8Oe7MS+?ZS(8yQF(-dx=oTR}r-a$#_AY-NUy<ig<K*vgnlB{R7&xHvX4kU6}$x-zze7S<M~_bAD%Eluu32`-GSsf2<vYYS6*kpoMkD`*kotN<|p",
+      "sources": [
+        {
+          "world_uuid": "c0ce912a-ad60-579f-b5fc-3db06510c5ae",
+          "index": 104
+        }
+      ]
+    }
+  },
+  "seed_fingerprint": "b984c5b8d008ab3676c25739521c7090be5d7a0d54dd3a4201ea273342ba6bc4",
+  "checkpoint_profile": "55e41b3dd26a5b2ab25abab25b3ab8dc3041e66011e9528cb804af7188973d3ae4f898a61f9357ac8f1a030c92cde8038b8f75d8a8e45284959d018f3869413da9416d0e3fe95c39abeadbe6c8a4ad0a"
+}
